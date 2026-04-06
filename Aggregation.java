@@ -1,9 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-/*
-* Java Classes and Aggregation Demo and Practice!
-* */
 class Player {
 
     private int id;
