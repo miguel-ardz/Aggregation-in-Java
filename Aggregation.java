@@ -1,8 +1,5 @@
 import java.util.ArrayList;
 import java.util.List;
-
-// Java Aggregation
-
 class Player {
 
     private int id;
