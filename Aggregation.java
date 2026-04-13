@@ -1,3 +1,4 @@
+// Miguel Rodriguez
 import java.util.ArrayList;
 import java.util.List;
 class Player {
@@ -61,8 +62,8 @@ class Team {
         return name;
     }
 
-    public void addPlayer(Player player_new) {
-        players.add(player_new);
+    public void addPlayer(Player p) {
+        players.add(p);
     }
 
     public void removePlayer(Player p) {
