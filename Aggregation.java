@@ -1,4 +1,5 @@
-// Miguel Rodriguez
+// Miguel Rodriguez :)
+// Java Aggregation simple program
 import java.util.ArrayList;
 import java.util.List;
 class Player {
